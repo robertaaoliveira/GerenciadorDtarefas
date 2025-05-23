@@ -1,0 +1,10 @@
+C:\Users\roberta.boliveira5\source\repos\GerenciadorDtarefas\GerenciadorDtarefas\bin\Debug\GerenciadorDtarefas.exe.config
+C:\Users\roberta.boliveira5\source\repos\GerenciadorDtarefas\GerenciadorDtarefas\bin\Debug\GerenciadorDtarefas.exe
+C:\Users\roberta.boliveira5\source\repos\GerenciadorDtarefas\GerenciadorDtarefas\bin\Debug\GerenciadorDtarefas.pdb
+C:\Users\roberta.boliveira5\source\repos\GerenciadorDtarefas\GerenciadorDtarefas\obj\Debug\GerenciadorDtarefas.csproj.AssemblyReference.cache
+C:\Users\roberta.boliveira5\source\repos\GerenciadorDtarefas\GerenciadorDtarefas\obj\Debug\GerenciadorDtarefas.Form1.resources
+C:\Users\roberta.boliveira5\source\repos\GerenciadorDtarefas\GerenciadorDtarefas\obj\Debug\GerenciadorDtarefas.Properties.Resources.resources
+C:\Users\roberta.boliveira5\source\repos\GerenciadorDtarefas\GerenciadorDtarefas\obj\Debug\GerenciadorDtarefas.csproj.GenerateResource.cache
+C:\Users\roberta.boliveira5\source\repos\GerenciadorDtarefas\GerenciadorDtarefas\obj\Debug\GerenciadorDtarefas.csproj.CoreCompileInputs.cache
+C:\Users\roberta.boliveira5\source\repos\GerenciadorDtarefas\GerenciadorDtarefas\obj\Debug\GerenciadorDtarefas.exe
+C:\Users\roberta.boliveira5\source\repos\GerenciadorDtarefas\GerenciadorDtarefas\obj\Debug\GerenciadorDtarefas.pdb
